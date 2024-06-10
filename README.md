@@ -16,8 +16,11 @@ This repository contains a Python script for recognizing whether a person is wea
 The dataset used for this project is organized in the following structure:
 
 mask_recgnition/
+
 ├── training/
+
 │ ├── with_mask/
+
 │ └── without_mask/
 
 Ensure the images are placed in their respective folders.
